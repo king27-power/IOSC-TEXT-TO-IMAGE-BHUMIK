@@ -4,7 +4,7 @@ INSTALL FOLLWING LIBRARIES
 !pip install pyvirtualdisplay
 !pip install tk
 !pip install pytesseract
-
+THIS APPLICATION EXTRACTS TEXT FROM IMAGES JUST LIKE GOOGLE LENS
 
 !pip install opencv-python
 INSTALL TESSERACT OCR FROM GITHUB 
